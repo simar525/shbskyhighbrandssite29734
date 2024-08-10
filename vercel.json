@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "https://www.skyhighbrands.org/$1"
+ }
+  ]
+}
